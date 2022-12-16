@@ -49,3 +49,4 @@
 [16.12.2022 23:17:09 ] [INFO] [user_interface] [ls_menu: 46] => User entered: {search}
 [16.12.2022 23:17:13 ] [INFO] [user_interface] [ls_menu: 28] => The user has selected item number 1
 [16.12.2022 23:17:57 ] [INFO] [user_interface] [ñhecking_the_number: 175] => User entered an invalid menu value: {arg}
+[16.12.2022 23:18:01 ] [INFO] [main] [<module>: 8] => Start
